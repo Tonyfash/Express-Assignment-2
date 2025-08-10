@@ -1,0 +1,83 @@
+[
+  {
+    "storeName": "JustRite",
+    "goods": "Beans",
+    "unitPrice": 45000,
+    "quantity": 100,
+    "totalPrice": 4500000,
+    "isAvailable": true,
+    "id": "6324ba65-c3b7-46fd-bb13-fb1382cd5ad2"
+  },
+  {
+    "storeName": "Bodija Market",
+    "goods": "Garri",
+    "unitPrice": 25000,
+    "quantity": 3000,
+    "totalPrice": 75000000,
+    "isAvailable": true,
+    "id": "2b243d28-0c4e-421d-87fa-c10c7bf18aa9"
+  },
+  {
+    "storeName": "Next Store",
+    "goods": "Groundnut Oil",
+    "unitPrice": 10000,
+    "quantity": 250,
+    "totalPrice": 2500000,
+    "isAvailable": true,
+    "id": "ce7384ef-22ec-4442-b0ea-cbb5a95f1547"
+  },
+  {
+    "storeName": "D&N supermarket",
+    "goods": "Yam-flour",
+    "unitPrice": 10000,
+    "quantity": 150,
+    "totalPrice": 1500000,
+    "isAvailable": true,
+    "id": "36725061-707b-49c0-bb2a-0d132d6196ae"
+  },
+  {
+    "storeName": "Aleshinloye market",
+    "goods": "Fabrics",
+    "unitPrice": 75000,
+    "quantity": 100,
+    "totalPrice": 7500000,
+    "isAvailable": true,
+    "id": "687b690a-acd0-4364-9a46-0c541782f592"
+  },
+  {
+    "storeName": "Obanikoro market",
+    "goods": "Shoes",
+    "unitPrice": 25000,
+    "quantity": 0,
+    "totalPrice": 0,
+    "isAvailable": false,
+    "id": "9ff43245-77bd-441c-899f-55a8982b16ff"
+  },
+  {
+    "storeName": "Lagelu market",
+    "goods": "Imported frames",
+    "unitPrice": 30000,
+    "quantity": 0,
+    "totalPrice": 0,
+    "isAvailable": false,
+    "id": "ace51e0f-36b1-4b9b-8b33-dda3811de4a9"
+  },
+  {
+    "storeName": "Beere market",
+    "goods": "Pepper & Tomatoes",
+    "unitPrice": 250000,
+    "quantity": 100,
+    "totalPrice": 25000000,
+    "isAvailable": true,
+    "id": "bc7d3f39-bb83-4ec0-9784-a2efa5d32ceb"
+  },
+  {
+    "storeName": "Ojoo market",
+    "goods": "Maize",
+    "unitPrice": 25000,
+    "quantity": 400,
+    "totalPrice": 10000000,
+    "isAvailable": true,
+    "id": "3d98491b-65a4-4c91-a7e7-9783bcdf9bf2"
+  }
+]
