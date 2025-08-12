@@ -93,7 +93,19 @@ const deleteAGrocery = (req, res) => {
     }
 }
 
-
+const deleteAllGrocery = (req, res) => {
+  if (groceryDB.length == 0) {
+    res.status(200).json({
+      message: `Grocery database is empty`
+    })
+  } else {
+    groceryDB.splice(0);
+    updateDB(groceryDB);
+    res.status(200).json({
+      message: `All groceries successfully deleted `
+    })
+  }
+}
 
 
 
@@ -101,5 +113,6 @@ module.exports = {
     createGrocery,
     getGrocery,
     updateGrocery,
-    deleteAGrocery
+    deleteAGrocery,
+    deleteAllGrocery
 };

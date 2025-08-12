@@ -79,5 +79,14 @@
     "totalPrice": 10000000,
     "isAvailable": true,
     "id": "3d98491b-65a4-4c91-a7e7-9783bcdf9bf2"
+  },
+  {
+    "storeName": "Gbagi market",
+    "goods": "Materials",
+    "unitPrice": 100000,
+    "quantity": 550,
+    "totalPrice": 55000000,
+    "isAvailable": true,
+    "id": "e33e29db-e4ef-401f-bfcc-29392568eb19"
   }
 ]
